@@ -1,0 +1,116 @@
+[	
+    	{
+        "id": 0,
+        "name": "Monster Hunter 3" ,
+        "Publisher": "Capcom" ,
+        "team":[
+            ["Designer(s)", "Teruki Endo", "Yugo Togawa"],
+            ["Programmer(s)", "Yuuki Ooi", "Kota Fukasawa"],
+            ["Artist(s)", "Kaname Fujioka"],
+            ["Composer(s)", "Akihiko Narita", "Zhenlan Kang"] 
+        ],
+        "Platform(s)": [
+            "PlayStation 4",
+            "Xbox One",
+            "Microsoft Windows"
+        ],
+        "Release": [
+            "PlayStation 4, Xbox One January 26, 2018",
+            "Windows August 9, 2018"
+        ],
+        "Genre(s)": [
+            "Action",
+            "role-playing"
+        ],  
+        "Mode(s)": [
+            "Single-player",
+            "multiplayer"
+        ]
+    },
+    {
+        "id": 1,
+        "name": "The Elder Scrolls Online" ,
+        "Publisher": "Bethesda Softworks" ,
+        "team":[
+            ["Designer(s)", "Nick Konkle", "Richard Lambert"],
+            ["Programmer(s)", "Daniel Dunham"],
+            ["Artist(s)", "Jared Carr", "Mathew Weathers"],
+            ["Composer(s)", "Brad Derrick"] 
+        ],
+        "Platform(s)": [
+            "PlayStation 4",
+            "playstation 5",
+            "Xbox One",
+            "Xbox series X/S",
+            "macOS",
+            "Microsoft Windows",
+            "Stadia"
+        ],
+        "Release": [
+            "Windows, OS X April 4, 2014",
+            "PlayStation 4, Xbox One June 9, 2015",
+            "Stadia June 16, 2020",
+            "PlayStation 5, Xbox Series X/S June 15, 2021"
+        ],
+        "Genre(s)": [
+            "MMO",
+            "role-playing"
+        ],  
+        "Mode(s)": [
+            "multiplayer"
+        ]  
+    },
+    {
+        "id": 2,
+        "name": "For Honor" ,
+        "Publisher": "Ubisoft" ,
+        "team":[
+            ["Designer(s)", "Alessandro Foschi"],
+            ["Programmer(s)", "Matteo Montrasio"],
+            ["Artist(s)", "Christian Diaz"],
+            ["Composer(s)", "Danny Bensi", "Saunder Jurriaans"] 
+        ],
+        "Platform(s)": [
+            "PlayStation 4",
+            "Xbox One",
+            "Microsoft Windows"
+        ],
+        "Release": [
+            "February 14, 2017"
+        ],
+        "Genre(s)": [
+            "Action"
+        ],  
+        "Mode(s)": [
+            "Single-player",
+            "multiplayer"
+        ]  
+    },
+    {
+        "id": 3,
+        "name": "Sekiro: Shadows Die Twice" ,
+        "Publisher": "FromSoftware, Activision" ,
+        "team":[
+            ["Designer(s)", "Masaru Yamamura", "Yuki Fukuda"],
+            ["Programmer(s)", "Yoshitaka Suzuki"],
+            ["Artist(s)", "no info found"],
+            ["Composer(s)", "Yuka Kitamura"] 
+        ],
+        "Platform(s)": [
+            "PlayStation 4",
+            "Xbox One",
+            "Microsoft Windows",
+            "Stadia"
+        ],
+        "Release": [
+            "Windows, PS4, XBO 22 March 2019",
+            "Stadia 28 October 2020"
+        ],
+        "Genre(s)": [
+            "Action-adventure"
+        ],  
+        "Mode(s)": [
+            "Single-player"
+        ]  
+    }
+]
