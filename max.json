@@ -1,0 +1,16 @@
+{
+	"name": "Max",
+	"class": "Healer",
+	"race": "Human",
+	"age": "24",
+	"origins": "Gaknuxu",
+	"portrait": "https://www.mikkoku.org/img/characters/maxavatar.png",
+	"loves": "Helping others",
+	"hates": "Crowded areas",
+	"theme": "rgb(231, 232, 156)",
+	"information":
+	{
+		"personality": "Dr. Maximillian was a loved and well respected doctor working in the big city of Gaknuxu. In fact, his superior knowledge of medicine and white magic have gained him a reputation as the world's best doctor. Unfortunately, his shyness and introversion made living in a crowded city like Gaknuxu very difficult for him. Even though he really enjoyed helping people, he felt very uneasy among so many strangers he didn't know. Eventually he was forced him to retreat to a little cottage on the beach. Here, he seldom receives people, except for a couple of close friends. Despite his lack of social skills, Max has a very gentle and calm personality. He is not one to get upset easily and gets along well with most people in the group. The heroes will come to rely on Max when a young girl's life is in danger. After this, he sticks with the group, seemingly slightly against his own will. Or does he secretly enjoy being in the company of his new friends? Since Max is not very talkative, especially not about the way he feels, I guess we'll never know what really goes on inside of him.",
+		"abilities": "As you would expect from a healer like Max, his primary function is to support his companions in battle. As a matter of fact, there is no other class in the game that does a better job at this. Of course, his most used spell is Cure. With Cure, he can restore an ally's HP. With Recover, he can heal HP for the entire party simultaneously, but the HP recovered is slightly less than with a single-target Cure. His other main spells include Heal and Raise. With Heal, he can heal negative status ailments. A level 1 heal can only heal poison and burnt, a level 2 heal can also heal blind, silence and sleep, while a level 3 heal can heal almost every negative status ailment. Raise is also a very important spell, as it brings back a fallen ally to life. On top of this, Max will also get Regen and Blink, two very useful buffs. Regen lets the target regenerate HP continuously, while Blink allows the target to evade all normal attacks for a short duration. At level 40, he will also learn Full-Cure, a spell that fully restores a target's HP (much like an X-Potion). But healing is not all he can do. Under certain conditions, Max can also use limited black magic. For instance, if you equip a Fire Staff on him, he has use fire magic and if you give him the rare Druid's Staff, he can use grass magic. All in all, Max is a very useful character to add to your party, if not the most useful. If you're having a hard time surviving against a particular boss, put Max in your party and you'll find it to be much easier!"
+	}
+}
