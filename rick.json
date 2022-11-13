@@ -1,0 +1,16 @@
+{
+	"name": "Rick",
+	"class": "Bard",
+	"race": "Half Elf",
+	"age": "29",
+	"origins": "Settho",
+	"portrait": "https://www.mikkoku.org/img/characters/rickavatar.png",
+	"loves": "Forest critters",
+	"hates": "Prejudice",
+	"theme": "rgb(61, 117, 39)",
+	"information":
+	{
+		"personality": "The forest ranger Rick is the mayor of Settho and the de facto leader of the rest of the Stiletto Archipelago. Having inherited the musical genius from his father, Rick is able to play the most beautiful songs on his harp. Some of the songs he can play even possess magical elements. From his mother has inherited a tender and passionate love for the forest, which is what earned him the additional title 'ranger'. He is particularly fond of squirrels and other small forest animals. Rick is also very appreciative of good jokes, especially when he makes them himself. Rick's backstory is somewhat unique. His father was an elf from Frayna, the Elves District, while his mother was a human woman living in Settho. They met when his father went on a journey to find inspiration for a new song he was writing. They immediately fell in love, and had a child not long after that. After his mother died of jungle fever, his father took his son back to Frayna. While Rick's physical appearance matches that of an elf, the elder of Frayna did not consider him a 'pure' elf and had him kicked out of the village as soon as he hit maturity. As Rick returned to his old home in Settho, the other villagers recognized his uniqueness and musical talent and elected him to succeed the former mayor who had just passed away.",
+		"abilities": "In combat, Rick uses a harp to play magical songs with a variety of results. Traditionally, the bard is one of the weakest and most useless classes in J-RPGs. I decided to do exactly the opposite, and make it one of the strongest. Not only are all of Rick's songs multi-target, most of them are also quite useful. His repertoire consists of a balanced mix between buffs and debuffs, and healing and damaging skills. For instance, Magic Strings inflicts refresh on all allies, while Rick's Lullaby attempts to put all enemies to sleep. On the other hand, the Bolero of Life heals some HP (while also inflicting the protect status), while the Ancient Requiem deals a lot of damage against all undead creatures. With songs like New Wave and Electrical Storm, Rick even has some elemental magic at his disposal! Additionally, some of his songs are also required to make progress with the story. For physically attacking an opponent, Rick simply strokes his harp once to play a specific magical note. Depending on which harp he has equipped, he can also inflict a negative status on his opponent by doing this. Rick's stats, like his skills are also well balanced - although you should definitely want to put him on the back row since his defensive capabilities are quite low."
+	}
+}

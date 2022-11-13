@@ -1,0 +1,16 @@
+{
+	"name": "Clyde",
+	"class": "Knight",
+	"race": "Frog",
+	"age": "12",
+	"origins": "Frog Kingdom",
+	"portrait": "https://www.mikkoku.org/img/characters/clydeavatar.png",
+	"loves": "Chivalry",
+	"hates": "Lightning storms",
+	"theme": "rgb(38, 54, 152)",
+	"information":
+	{
+		"personality": "Underneath Serpentra's Rock, there's the Frog Kingdom, safe below sea level. Or is it? Recently, the ancient sea snake Serpentra has returned and it's taking the lives of many frogs who dare to set one foot out of the Frog Kingdom. It has been said that this same Serpentra was also responsible for the destruction of the Tunaquan civilization, many years ago. The only way to stop it for good is to take away its source of energy - the Water Coin. Luckily, there is one brave frog who dares to stand up to this threat and accomplish this task. His name is Clyde. Despite his small size, Clyde is a reliable and powerful ally. He would never turn his back on anyone. Having served the Frog King as his most trusted warrior for several years, Clyde has secretly developed a crush on the king's daughter Lucretia. However, he always puts his duties as a knight first. As part of the knight's code, Clyde is very polite, patient and honourable. Even when others laugh him in the face, such as the rude King Yarno, he won't lose his temper.",
+		"abilities": "Clyde is a Frog Knight, the froggy version of the Knight. However, the Frog Knight has its own unique skill set. The only skills they have in common is the basic First Aid, and Cover - which Clyde can also learn from Furio at the Military Academy in Elour. Apart from some strong, single-target sword attacks such as 'Slash' and the water-elemental 'Vaporize', Clyde also has early access to some multi-target abilities, something which the other knight-type classes lack. For instance, he can use 'Frog Song' to attempt to inflict poison and blind on all foes and 'Frog Rain' to deal medium water damage to all enemies. Because of this, he is quite a versatile fighter. Thanks to his water attacks, he is especially strong against enemies weak to this element, such as fire or earth based monsters. Stat-wise, the Frog Knight does not differ much from the (human) Knight. Clyde's speed is slightly higher than Tom's, as is his magic power (which is needed for his few magic spells). On the contrary, his HP and health are lower, so he's less good at tanking. Clyde also has his own set of froggy equipment, since human-size equipment does not fit him. This means he has less options when it comes to choosing armour and headgear, although he can still equip any shield he wishes. Finally, him being a frog makes him extra vulnerable to lightning damage, while he absorbs water damage. All in all, Clyde is a great fighter, and a good choice for those who want to try something new."
+	}
+}
