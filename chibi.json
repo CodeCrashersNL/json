@@ -1,0 +1,16 @@
+{
+	"name": "Chibi",
+	"class": "Warrior",
+	"race": "Flamizard",
+	"age": "1",
+	"origins": "Abandoned Flamizard Lair",
+	"portrait": "https://www.mikkoku.org/img/characters/chibiavatar.png",
+	"loves": "Her presumed parents",
+	"hates": "Not getting what she wants",
+	"theme": "rgb(25, 99, 77)",
+	"information":
+	{
+		"personality": "Chibi is the only character without a backstory. Why? Because she has none! When you first encounter Chibi in the game, she will still be inside of an egg. This egg can be found deep underneath the surface in the Snowdust Republic, in an abandoned flamizard lair. When you take the egg with you to the castle, it will eventually hatch. When the flamizard is born, you first have to give her a name (although Chibi is the default name). The young creature immediately bonds with Mark, whom she thinks is her mother. Flamizards are not inherently evil, they are made that way. Because of the good company she's in, Chibi will grow up to become a kind and loyal friend. As is typical for a flamizard infant (or in fact, for most children), Chibi can quickly lose her temper when she doesn't get what she wants, in which case she won't stop crying until she does. She is also quite easily offended, in which case she'll let her claws do the talking. After spending much time with her human family, Chibi will eventually also learn to speak the human language. But once she hits puberty, she starts to wonder about her identity. Why does she have dragon scales while everyone else has a normal skin? Why is she the only one with wings and a tail? ... Does she really belong here at all? After Chibi finds out the reality about her heritage, she stands before a harsh dilemma. What path will she choose?",
+		"abilities": "In comparison with the other fighters, Chibi is highly unique. Unlike most characters, Chibi has no pre-configured order of gaining skills. Her progress is entirely up to the player. As a young flamizard warrior, she can learn to fight with a variety of weapons; swords, axes and spears. If you only let her fight with swords, she will only learn sword techniques. If you give her an axe in combat, she will learn axe techniques, and the same applies for spears. In other words, you can choose to have her specialise in one weapon type, or to have her become an all-round fighter. Although she starts completely empty, if you invest enough time in her, Chibi could very well become one of the strongest fighters in the game. Take note that if you let her master swords, axes and spears, she will also be able to equip balls&chains, as well as the ability to equip shields! There is one more thing to add to this. There's also a built-in parenting system of sorts that allows Chibi to gain skills twice as fast. The way this works is that when someone who wields the same type of weapon is present in the party, Chibi, as an inquisitive child, will watch and learn from him or her. In practice, this means that if Tom, Clyde or Troy is in the party she will gain twice as much 'sword skill points' every time she uses the Fight command. The same thing applies to Belzur and Thodal with axes and to Andrew and Andreas with spears. Obviously, once Chibi has mastered all weapons and has learned how to use ball&chains, she will learn skills for this weapon faster with Ares in the party."
+	}
+}
