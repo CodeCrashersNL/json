@@ -1,0 +1,8 @@
+{
+	"title": "MySQL",
+	"content": [
+		"MySQL is het meest gebruikte managementsysteem voor relationele databases in PHP. Met de MySQLi en PDO pakketten van PHP leer je hoe je gegevens uit een databasetabel kunt ophalen om deze op een webpagina te tonen, of juist om de door een bezoeker in een formulier ingevulde gegevens op te slaan in een databasetabel.",
+		"Wanneer je werkt met PHP & MySQL is het van groot belang dat je je website leert beveiligen tegen hackers en andere kwaadwilligen. Extra aandacht wordt besteed aan het hashen van wachtwoorden en het beveiligen van persoonsgegevens in verband met privacy. Ook leer je hoe je middels PHP & MySQL zelf een REST API kunt opzetten."
+	],
+	"logo": "https://codecrashers.nl/img/logos/mysql.png"
+}

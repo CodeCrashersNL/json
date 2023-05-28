@@ -1,0 +1,8 @@
+{
+	"title": "jQuery",
+	"content": [
+		"JavaScript wordt regelmatig gebruikt in combinatie met jQuery, een uitbreiding (library) op JavaScript. jQuery wordt vooral toegepast vanwege de zeer gebruikersvriendelijke syntaxis om zogenaamde DOM bewerkingen uit te voeren. DOM bewerkingen zijn bewerkingen die dynamisch de tekstuele inhoud, HTML, of CSS van een pagina kunnen manipuleren. jQuery biedt ook een simpelere syntaxis om AJAX verzoeken naar een server uit te voeren.",
+		"jQuery is ook populair als kapstok voor andere bibliotheken zoals jQuery UI en Bootstrap (tot en met versie 4). Verschillende externe plugins waaronder slideshows, caroussels, afbeeldingsgalerijen etc. maken ook gebruik van jQuery als basis."
+	],
+	"logo": "https://codecrashers.nl/img/logos/jquery.png"
+}

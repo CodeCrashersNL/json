@@ -1,0 +1,8 @@
+{
+	"title": "Bootstrap",
+	"content": [
+		"Bootstrap is een veel gebruikt, gratis en open source uitbreiding op CSS (en JavaScript). Het wordt ingezet om webpagina's te voorzien van een uniforme, moderne styling zonder dat je zelf veel CSS code hoeft te schrijven.",
+		"Bootstrap komt met een ingebouwd 12-koloms grid systeem waarmee het eenvoudig is om een website goed schaalbaar te maken voor mobiele apparaten."
+	],
+	"logo": "https://codecrashers.nl/img/logos/bootstrap.png"
+}

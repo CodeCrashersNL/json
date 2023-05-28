@@ -1,0 +1,8 @@
+{
+	"title": "SQL",
+	"content": [
+		"Als je je registreert op een website is het cruciaal dat je gegevens nog steeds bekend zijn de volgende keer dat je terugkomt. Ook is het belangrijk dat wanneer je een bestelling plaatst op een webshop, het systeem dat registreert en de voorraad automatisch aanpast. Dat is wanneer databases ingezet moeten worden.",
+		"In deze module leer je werken met grafische interfaces als phpMyAdmin en MySQL Workbench om je database te beheren. De nadruk ligt echter op de taal SQL (Structured Query Language), waarmee je met pure code bewerkingen kunt uitvoeren op een database."
+	],
+	"logo": "https://codecrashers.nl/img/logos/sql.png"
+}
