@@ -1,0 +1,7 @@
+{
+	"title": "Sass",
+	"content": [
+		"CSS dient de basis voor het stijlen van alle webelementen in de browser. Dit is tevens de code die de browser kan lezen en begrijpen. Sass is een soort CSS on steroids, waarmee je al jouw CSS werk beter kunt structureren maar bijvoorbeeld ook functies kunt schrijven die CSS genereren. Denk aan een kleurenpallet van gradaties genereren op basis van een ingegeven basiskleur. Dit toevoegen van functionaliteiten bovenop CSS noemen we een CSS preprocessor, waarmee Sass dus gezien kan worden als een soort programmeren met CSS.",
+		"In de wereld van het moderne web en dus tijdens je loopbaan zul je vrijwel altijd te maken krijgen met Sass (SCSS, ook wel Sassy CSS). Daarom is het van belang de voordelen hiervan goed te doorgronden."
+	]
+}
