@@ -1,0 +1,9 @@
+{
+	"title": "CSS",
+	"content": [
+		"Waar HTML zorgt voor de inhoud van een website, bepaalt CSS hoe deze website er uit komt te zien. Met Cascading Style Sheets voeg je opmaak toe aan je website. Je bepaalt onder andere de lettertypes, kleuren, afmetingen, achtergronden, randen en marges van eerder gemaakte HTML elementen. Bovenal gebruik je CSS om de positionering van je elementen te bepalen.",
+		"Ruim de helft van alle websitebezoeken vindt tegenwoordig plaats via mobiele apparaten zoals een smartphone of tablet. Het is dus van essentieel belang dat moderne websites hierop zijn afgestemd. Moderne CSS3 biedt verschillende mogelijkheden om dat voor elkaar te krijgen zoals flexbox en het grid model in combinatie met media queries. Tegenwoordig kan CSS zelfs gebruikt worden om animaties toe te voegen aan een pagina.",
+		"Met kennis van CSS (en HTML) zal je in staat zijn om een door een designer gemaakt ontwerp in Figma, Photoshop, of een ander grafisch programma nauwkeurig om te zetten naar een echte webpagina."
+	],
+	"logo": "https://codecrashers.nl/img/logos/css.png"
+}

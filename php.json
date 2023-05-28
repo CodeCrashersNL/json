@@ -1,0 +1,9 @@
+{
+	"title": "PHP",
+	"content": [
+		"PHP is de meest populaire server side programmeertaal op het web. PHP is verantwoordelijk voor de werking van een website achter de schermen.",
+		"Met PHP kun je - meestal in combinatie met een database - dynamische content verzorgen. Op grotere websites worden de verschillende pagina's namelijk niet één voor één aangemaakt; deze worden automatisch gegenereerd op basis van de beschikbare gegevens en instellingen. Denk bijvoorbeeld aan een webshop met duizenden productpagina's.",
+		"Een statische website gemaakt met HTML & CSS is per definitie éénrichtingsverkeer: van de webserver naar de gebruiker. Door PHP te gebruiken kun je gebruikers ook informatie laten uitwisselen met de server. Denk bijvoorbeeld aan aan de mogelijkheid om jezelf te registreren of in te loggen, een bestelling te plaatsen, een zoekfunctie of een contactformulier."
+	],
+	"logo": "https://codecrashers.nl/img/logos/php.png"
+}

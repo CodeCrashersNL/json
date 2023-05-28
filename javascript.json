@@ -1,0 +1,9 @@
+{
+	"title": "JavaScript",
+	"content": [
+		"JavaScript, ook wel bekend als ECMAScript, is een zeer populaire scripttaal die vooral gebruikt wordt om websites interactief te maken en webapplicaties te ontwikkelen. JavaScript wordt in de meeste gevallen client side (door de browser van de bezoeker) uitgevoerd. Dat betekent dat je met JavaScript dezelfde resultaten kunt produceren op verschillende apparaten, mits deze over een browser beschikken.",
+		"Normaal gesproken gebeurt er niets meer met een pagina zodra deze helemaal is ingeladen. JavaScript brengt daar verandering in; door middel van JavaScript kun je bepaalde gebeurtenissen koppelen aan handelingen van gebruikers, zonder daarvoor de pagina te moeten herladen. Denk bijvoorbeeld aan een knop waar je op kan klikken om de inhoud (HTML) of het uiterlijk (CSS) van de pagina te veranderen. JavaScript is ook nodig om asynchroon data op te halen uit externe bronnen via APIs.",
+		"De vraag op de arbeidsmarkt naar kennis van JavaScript frameworks zoals React en Vue is de laatste jaren flink toegenomen. Ook is het tegenwoordig eenvoudiger dan ooit geworden om server side JavaScript uit te voeren middels Node.js."
+	],
+	"logo": "https://codecrashers.nl/img/logos/javascript.png"
+}
