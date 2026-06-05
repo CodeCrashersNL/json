@@ -1,0 +1,16 @@
+{
+	"name": "Wim",
+	"class": "Pirate",
+	"race": "Human",
+	"age": 44,
+	"origins": "Alekrypol",
+	"portrait": "https://www.mikkoku.org/img/characters/wimavatar.png",
+	"loves": "Anything with alcohol",
+	"hates": "Being sober",
+	"theme": "rgb(38, 54, 152)",
+	"information":
+	{
+		"personality": "It's our favourite jolly old pirate, Wim! Born and raised in Alekrypol, he already became a sailor at a young age. Thinking that the life of a regular sailor was too boring, he ended up joining Captain Seabeard's gang of good-hearted pirates at the age of thirty. Ever since then, he has been on his own, travelling around the world. Wim enjoys a carefree life as he's sailing to wherever the wind takes him on his own ship, the SS Ale. To make some money, he occasionally ships passengers or cargo from one place to another. Next to sailing, Wim has one big passion - drinking. In fact, Wim's alcohol addiction is so severe that his body actually needs it to function properly. He mostly likes beer and rum, but on special occasions he drinks red wine as well. After he agrees to help you; he'll take you to any city you want, where he'll wait patiently in the local pub for you to return. Despite his jolly nature, Wim can also be really grumpy from time to time, especially when he hasn't had a drink in more than half an hour. A bit reluctant at the start of the quest, Wim quickly grows on Mark, who he considers like the son he never had. He also gets along well with Quist, Max, and of course with his fellow Alekrypolian, Tristan.",
+		"abilities": "Wim is one of the few characters who you can't control in combat. He just does whatever he want, and doesn't take orders from anyone. Does that make him useless? Not necessarily. Or better yet: far from it! Wim's HP, raw attack power and defense are among the highest of the game, probably making him the best 'tank'. Unlike a berserker (another, well known uncontrollable class), Wim's behaviour is not limited to just plain fighting. In fact, there are several other actions he's capable of. If you've given him beer to hold in his off-hand and his health is below eighty percent, he will occasionally drink beer to restore his HP. Each time Wim drinks, there's a chance he'll get drunk. Is that a bad thing? No! While he's drunk, his attack and his speed are doubled, turning him into a real killer machine. Additionally, when a battle is taking too long, he will start using a powerful sword attack with his blade, dealing critical damage. When there are least four active opponents in a battle, there's also a chance of Wim casting thunder-elemental or water-elemental spells for decent area of effect damage. Finally, when you are fighting monsters from the deck of his ship, Wim will be able to cast out his fishing rod to deal double damage against fish-type enemies. But of course, there are also some hidden abilities that are only available when certain conditions are met..."
+	}
+}

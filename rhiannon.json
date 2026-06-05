@@ -1,0 +1,16 @@
+{
+	"name": "Rhiannon",
+	"class": "Necromancer",
+	"race": "Human",
+	"age": 20,
+	"origins": null,
+	"portrait": "https://www.mikkoku.org/img/characters/rhiannonavatar.png",
+	"loves": "Spooky things",
+	"hates": "Boredom",
+	"theme": "rgb(92, 86, 100)",
+	"information":
+	{
+		"personality": "Rhiannon is a very mysterious girl. She always seems to turn up at places \"where death looms\", as she puts it herself. Where her fascination with the undead looms from is unknown, as is pretty much everything about her persona. What is known is that she's a close friend of Lianne's, from which it can be inferred that Rhiannon is also from West Grubmil. Her personality can be summed up as follows; a unprejudiced, open-minded and very adventurous, with a good dose of humour. She has a thing for outsiders like herself and usually feels attracted to the 'not so usual' guys. Because of her obsession with the occult, Rhiannon has often been branded as a witch. Because of this, Rhiannon usually avoids visiting crowded towns rather than having to listen to the townsfolk's ignorant comments. However, there is some truth to the towns people's accusations - Rhiannon does indeed have a close bond with the other side. This bond manifests itself in her ability to bring forth undead creatures to do her bidding. It is unclear how Rhiannon has gotten hold of this powerful ability. When asked about it, Rhiannon just shrugs and turns away. So remember guys, never ask a girl how she's able to summon undead beings - it's rude!",
+		"abilities": "The stats of Rhiannon's class, the Necromancer, are very similar to those of other mages: low strength, defense and health growth, but good magic power and mana growth with an average speed. As said before, she has the rare power to bring back the dead to the realm of the living and let them fight for her sake. However, before she can summon an undead being, she has to recruit it first. In order to be able to recruit an undead creature, she must first bring down its health to less than 25% of its maximum hit points. Once recruited, that undead type will fill your ranks and be automatically added to your list of skills. In total, there are 10 different kinds of undead to be recruited: zombies, skeletons, ghouls, mummies, shadows, ghosts, spirits, wraiths, spectres and wights. However, that's not all. By recruiting more undead creatures of a certain type, you will eventually unlock stronger summons that will randomly show up instead of the standard attack. Instead of the default \"Fight\" each of these upgrades will use a completely different skill. For instance, recruiting 10 ghouls will unlock the Mountain Dweller summon which will use its trademark \"Rock Tomb\" ability and recruiting 25 ghouls will unlock the Corpse summon which is capable of using \"Drain Punch\". With a large array of different summons at her disposal and a solid spell to keep herself alive and kicking, Rhiannon is one of the most versatile characters in the game who can easily hold her own against many formidable foes."
+	}
+}
