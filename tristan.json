@@ -1,0 +1,16 @@
+{
+	"name": "Tristan",
+	"class": "Engineer",
+	"race": "Human",
+	"age": 26,
+	"origins": "Alekrypol",
+	"portrait": "https://www.mikkoku.org/img/characters/tristanavatar.png",
+	"loves": "Science, machines",
+	"hates": "People of low status",
+	"theme": "rgb(206, 200, 50)",
+	"information":
+	{
+		"personality": "The son of the renowned engineer Theo, Tristan wants nothing more than to walk in his father's footsteps. However, this is not an easy task, as Theo was truly a genius - being the only man since the fall of the highly advanced Tunaquan civilization to fully understand complex scientific mechanisms such as combustion, steam engines, and even basic robotics. Sadly, Theo's dream to initiate a worldwide technological breakthrough was never realized as he was killed in an explosion when one of his experiments went horribly wrong six years ago. Overcome with grief, Tristan's mother and sister decided to leave their home in Alekrypol and move to the nearby port town of Theon. Young Tristan, however, stayed behind in Alekrypol where he continued his father's research with success and also succeeded him as the mayor of the city. Through his mother, he is also related to the high priest of the Indevs Church. Because of his superior intellect and knowledge of physics, chemistry and machinery, Tristan is a very valuable ally. Unfortunately, being both a highly intelligent scientist as well as an influential ruler made Tristan quite arrogant as he tends to look down on people easily. For instance, he has ordered the construction of high walls in his city to separate the wealthy middle class from the poorer population. However, according to his sister, his arrogance is really just a cover for hiding his fear of not living up to his late father's expectations. After all, as said before - walking in the footsteps of a genius is far from easy.",
+		"abilities": "Tristan is one of the only characters who fights with a modern kind of weapon; a gun. However, these guns are still pretty primitive so their attack power isn't that high. Bullets do, however, ignore an enemy's defense. Still, fighting is not Tristan's main expertise. It's his skillset that makes him worthwhile. True to his class, Tristan has a variety of \"Science\" skills based on physics and chemistry. Similar to Richard or Delium, Tristan does not acquire spells through plain leveling, but upon completing certain tasks in the game - for instance, fixing something that's broken or studying a complex mechanism. Tristan starts out with Analyze and Capsule, two very useful skills. Analyse will scan a monster for its name, its type, its current HP/max HP as well as its current MP/max MP, just like the Magnifying Glass item. Throwing a Capsule will provide a random amount of healing to a single ally. If you take Tristan to see his mother in Theon, she will show him some notes left behind by his late father, teaching Tristan his third spell: Combustion. Combustion is a strong offensive spell - dealing medium non-elemental damage as well as stunning and burning and temporarily breaking defense. Eventually, Tristan will be able to learn many more spells, with a large variety of effects."
+	}
+}
