@@ -1,7 +1,8 @@
 {
+    "id": 25,
     "name": "Chibi",
     "class": "Warrior",
-    "weapon": "Swords, Axes, Spears",
+    "weapon": ["Swords", "Axes", "Spears"],
     "race": "Flamizard",
     "age": "1",
     "origins": "Near Snowdust",
